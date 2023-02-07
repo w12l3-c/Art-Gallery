@@ -1,0 +1,64 @@
+artist,year,name,price,website,origin,period,format,sold
+Picasso,1905,Garcon a la pipe,1000000.0,None,spain,,,False
+Picasso,1932,Le Reve,200000.0,None,Spain,,,False
+Picasso,1937,The Weeping Women,500000.0,None,Spain,,,False
+Vincent Van Gogh,1890,The Starry Night,1000000.0,None,Netherlands,,,False
+Vicent Van Gogh,1888,Sunflowers,100000.0,None,Netherlands,,,False
+Michelangelo,1504,David,400000.0,None,Florentine,,,False
+Michelangelo,1508,The Sistine,1250000.0,None,Florentine,,,False
+Leonardo Da Vinci,1509,Mona Lisa,430000.0,None,Italy,,,False
+Leonardo Da Vinci,1498,The Last Supper,320000.0,None,Italy,,,False
+Leonardo Da Vinci,1490,Vitruvian Man,100000.0,None,Italy,,,False
+Monet,1875,The Stroll,200000.0,None,France,,,False
+Monet,1872,Impression,125000.0,None,France,,,False
+Edward Hopper,1942,Nighthawks,135000.0,None,America,,,False
+Piet Cornelies,1921,Tableau,150000.0,None,Netherlands,,,False
+Jackson Pollock,1952,Convergence,1000000.0,None,America,,,False
+Johannes Vermeer,1665,Girl with a Pearl Earring,100000.0,None,Netherlands,,,False
+Johannes Vermeer,1658,The Milkmaid,500000.0,None,Netherlands,,,False
+Frida Kahlo,1939,The two fridas,600000.0,None,Mexico,,,False
+Salvador Dali,1931,The persistance of memory,540000.0,None,Spain,,,False
+O'Keeffe,1931,Cow's skull: Red White Blue,152000.0,None,America,,,False
+Protogenes,130,Resting Satyr,100000.0,None,Greek,,,False
+Praxiteles,300,Aphrodite of Knidos,200000.0,None,Greek,,,False
+Scopas,100,Youthful Hero or God,235000.0,None,Greek,,,False
+Giotto,1306,Lamentation,120000.0,None,Italy,,,False
+Giotto,1310,Oganissanti Madonna,90000.0,None,Italy,,,False
+Lorenzetti,1338,The Allegory of Good and Bad Government,130000.0,None,Italy,,,False
+Gentile,1423,Adoration of the Magi,151000.0,None,Italy,,,False
+ADTAN,2022,Lightning,23.01,twitter,None,,,False
+ADTAN,2021,Star movement,25.02,twitter,None,,,False
+wlop,2016,Reading2,19.0,foundation,None,,,False
+wlop,2018,hell,20.01,foundation,None,,,False
+wlop,2019,Blackswan,12.0,deviantart,None,,,False
+wlop,2016,mahina,8.01,foundation,None,,,False
+wlop,2018,destination,7.01,foundation,None,,,False
+wlop,2019,New Year,14.01,deviantart,None,,,False
+Criin,2014,chritmas,9.22,pixiv,None,,,False
+Criin,2021,city of winds and idylls,13.2,twitter,None,,,False
+Torino,2022,Swordsman of Ice,11.0,twitter,None,,,False
+Torino,2019,Stargazing,16.02,twitter,None,,,False
+Torino,2019,Temple,10.67,twitter,None,,,False
+Torino,2019,Frosty Snow,13.58,twitter,None,,,False
+Suwabe,2016,Dark knight,12.0,pixiv,None,,,False
+Suwabe,2022,Chainsaw,8.01,pixiv,None,,,False
+void_0,2022,World of two identities,10.01,pixiv,None,,,False
+void_0,2019,End of World,13.01,pixiv,None,,,False
+void_0,2020,Butterflies,18.01,pixiv,None,,,False
+Azuki,2021,Azuki#8600,3.01,opensea,None,,,False
+Azuki,2021,Azuki#9107,4.01,opensea,None,,,False
+Azuki,2021,Azuki#3200,5.01,opensea,None,,,False
+Azuki,2021,Azuki#4501,6.01,opensea,None,,,False
+Azuki,2021,Azuki#1209,7.01,opensea,None,,,False
+Bored Ape Yacht Club,2021,Bored Ape#0392,23.02,opensea,None,,,False
+Bored Ape Yacht Club,2021,Bored Ape#5672,23.02,opensea,None,,,False
+Bored Ape Yacht Club,2022,Bored Ape#9283,23.02,opensea,None,,,False
+Bored Ape Yacht Club,2022,Bored Ape#5726,23.02,opensea,None,,,False
+Bored Ape Yacht Club,2021,Bored Ape#2653,23.02,opensea,None,,,False
+petertarka,2021,Meditation,21.02,SuperRare,None,,,False
+danguiz,2021,Bird of the sea,14.02,SuperRare,None,,,False
+creatiflux,2022,Factory Reset,23.02,SuperRare,None,,,False
+varnaman,2021,Moxie,41.04,SuperRare,None,,,False
+deekaymation,2021,Skateboard Rides you,49.95,Foundation,None,,,False
+seerlight,2022,Rain Village,49.95,Foundation,None,,,False
+minami,2021,Antique,20.98,Foundation,None,Digital,,False
